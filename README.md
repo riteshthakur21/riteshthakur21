@@ -1,18 +1,120 @@
-# 💫 About Me:
-i am ritesh raj<br>2nd year BCA student<br>created xavier-alumni-connect from scratch<br>problem solver 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Ritesh+Raj+%F0%9F%91%8B;Full-Stack+Web+Developer+%7C+Agentic+AI+Explorer;Final+Year+BCA+%7C+Creative+Problem+Solver+%E2%9A%95%EF%B8%8F;Building+Real+Solutions+That+Delight+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/riteshthakur21022007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riteshthakur21feb@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=riteshthakur21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=riteshthakur21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=riteshthakur21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/riteshthakur21022007/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:riteshthakur21feb@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://hhfc.in">
+    <img src="https://img.shields.io/badge/HHFC%20Trust-00B388?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=riteshthakur21&label=Profile+Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=riteshthakur21&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+```ts
+const ritesh = {
+  role:       "Final Year BCA Student & Part-time Web Developer",
+  employer:   "HHFC Trust 🏢",
+  passions:   ["Web Technologies", "Agentic AI", "Creative Problem Solving"],
+  currentlyWorking: "Full-stack features @ HHFC Trust + personal projects",
+  learning:   ["Agentic AI workflows", "Advanced Next.js", "System Design"],
+  collaborate: "Open-source Web & AI-powered tools",
+  askMeAbout:  ["React", "Node.js", "Vector DBs", "Clean UI architecture"],
+  funFact:    "I once built a Vector DB in C++ just to understand how they work 🤓",
+  belief:     "Performance ⚡ and Visual Delight 🎨 should never be a trade-off"
+};
+```
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,tailwind,figma&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,cpp,python,ts,js,java&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,postman&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" height="40" alt="Framer Motion" title="Framer Motion"/>
+  &nbsp;&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/1525981?s=40" height="40" alt="MUI" title="Material UI"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ Xavier Alumni Connect — [Live Demo](https://xavier-alumni-connect.vercel.app/)
+> Full-stack alumni management & networking platform with onboarding, admin verification, real-time chat, events, jobs, and CSV exports.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+### 🤖 rites-AI — [GitHub Repo](https://github.com/riteshthakur21/rites-AI)
+> A Vector Database built from scratch in **C++** with a web UI. Implements **HNSW**, **KD-Tree**, and **Brute Force** search algorithms side-by-side — plus a full **RAG pipeline** powered by a local LLM via Ollama.
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-LLM-black?style=flat)
+![RAG](https://img.shields.io/badge/RAG-Pipeline-orange?style=flat)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riteshthakur21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshthakur21&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=riteshthakur21&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=riteshthakur21&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🌍 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/riteshthakur21022007/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  &nbsp;
+  <a href="mailto:riteshthakur21feb@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://hhfc.in" target="_blank">
+    <img alt="HHFC" src="https://img.shields.io/badge/Work-HHFC%20Trust-00B388?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Any fool can write code a machine understands.<br/>
+  A craftsman writes code <b>humans</b> can understand — and machines love to run."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=80&section=footer" />
+</p>
