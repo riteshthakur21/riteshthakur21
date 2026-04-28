@@ -20,7 +20,7 @@
 ## 🧠 About Me
 
 - 🎓 **Final Year BCA Student** — curious about **Web Technologies**, **Agentic AI** & **Creative Problem Solving**
-- 🔭 Currently working on **[Xavier Alumni Connect](https://xavier-alumni-connect.vercel.app/)** & personal projects
+- 🔭 Currently working on my personal project **[Xavier Alumni Connect](https://xavier-alumni-connect.vercel.app/)**
 - 🌱 Currently learning **Agentic AI workflows**, **Advanced Next.js** & **System Design**
 - 👥 Looking to collaborate on **Open-source Web & AI-powered tools**
 - 💬 Ask me about **React**, **Node.js**, **Vector DBs**, **Clean UI Architecture**
