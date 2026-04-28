@@ -36,6 +36,7 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tailwind,mongodb,postgres,figma&theme=dark" /><br/>
   <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,java,git,github,vscode,vercel,postman&theme=dark" />
 </p>
+
 ---
 
 ## 🚀 Featured Projects
