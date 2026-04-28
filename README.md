@@ -9,8 +9,8 @@
   <a href="mailto:riteshthakur21feb@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://hhfc.in">
-    <img src="https://img.shields.io/badge/HHFC%20Trust-00B388?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://xavier-alumni-connect.vercel.app/">
+    <img src="https://img.shields.io/badge/Alumni%20Connect-6C47FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=riteshthakur21&label=Profile+Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
 </p>
@@ -19,19 +19,13 @@
 
 ## 🧠 About Me
 
-```ts
-const ritesh = {
-  role:       "Final Year BCA Student & Part-time Web Developer",
-  employer:   "HHFC Trust 🏢",
-  passions:   ["Web Technologies", "Agentic AI", "Creative Problem Solving"],
-  currentlyWorking: "Full-stack features @ HHFC Trust + personal projects",
-  learning:   ["Agentic AI workflows", "Advanced Next.js", "System Design"],
-  collaborate: "Open-source Web & AI-powered tools",
-  askMeAbout:  ["React", "Node.js", "Vector DBs", "Clean UI architecture"],
-  funFact:    "I once built a Vector DB in C++ just to understand how they work 🤓",
-  belief:     "Performance ⚡ and Visual Delight 🎨 should never be a trade-off"
-};
-```
+- 🎓 **Final Year BCA Student** — curious about **Web Technologies**, **Agentic AI** & **Creative Problem Solving**
+- 🔭 Currently working on **[Xavier Alumni Connect](https://xavier-alumni-connect.vercel.app/)** & personal projects
+- 🌱 Currently learning **Agentic AI workflows**, **Advanced Next.js** & **System Design**
+- 👥 Looking to collaborate on **Open-source Web & AI-powered tools**
+- 💬 Ask me about **React**, **Node.js**, **Vector DBs**, **Clean UI Architecture**
+- ⚡ Fun fact: I once built a **Vector DB in C++** just to understand how they work 🤓
+- 💡 I believe **Performance** and **Visual Delight** should never be a trade-off
 
 ---
 
@@ -103,8 +97,8 @@ const ritesh = {
     <img alt="Email" src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://hhfc.in" target="_blank">
-    <img alt="HHFC" src="https://img.shields.io/badge/Work-HHFC%20Trust-00B388?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://xavier-alumni-connect.vercel.app/" target="_blank">
+    <img alt="Alumni Connect" src="https://img.shields.io/badge/Project-Alumni%20Connect-6C47FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
