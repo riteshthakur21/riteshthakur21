@@ -27,22 +27,15 @@
 - ⚡ Fun fact: I once built a **Vector DB in C++** just to understand how they work 🤓
 - 💡 I believe **Performance** and **Visual Delight** should never be a trade-off
 
+
 ---
-
+ 
 ## 🧰 Tech Stack
-
+ 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flask,tailwind,figma&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,cpp,python,ts,js,java&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tailwind,mongodb,postgres,figma&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,java,git,github,vscode,vercel,postman&theme=dark" />
 </p>
-
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" height="40" alt="Framer Motion" title="Framer Motion"/>
-  &nbsp;&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/1525981?s=40" height="40" alt="MUI" title="Material UI"/>
-</p>
-
 ---
 
 ## 🚀 Featured Projects
