@@ -57,7 +57,7 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 ---
 
-### 🤖 rites-AI — [GitHub Repo](https://github.com/riteshthakur21/rites-AI)
+### 🤖 ritesAI — [GitHub Repo](https://github.com/riteshthakur21/rites-AI)
 > A Vector Database built from scratch in **C++** with a web UI. Implements **HNSW**, **KD-Tree**, and **Brute Force** search algorithms side-by-side — plus a full **RAG pipeline** powered by a local LLM via Ollama.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
