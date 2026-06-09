@@ -17,7 +17,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About M
 
 - 🎓 **Final Year BCA Student** — curious about **Web Technologies**, **Agentic AI** & **Creative Problem Solving**
 - 🔭 Currently working on my personal project **[Xavier Alumni Connect](https://xavier-alumni-connect.vercel.app/)**
