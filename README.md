@@ -135,14 +135,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riteshthakur21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</p>
-
----
-
 ## 🌍 Let's Connect
 
 <p align="center">
