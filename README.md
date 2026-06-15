@@ -82,7 +82,7 @@
 ---
 
 ### 🏫 Graphura — School Management ERP *(Internship)*
-> Backend development for a full-scale School ERP — Principal Communication Module, Cloudinary file uploads, JWT auth, Notices, Events & Meetings system.
+> Frontend & Backend development for a full-scale School ERP.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
