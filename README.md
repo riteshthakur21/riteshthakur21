@@ -28,7 +28,7 @@
 ---
 
 <details>
-<summary><b>👤 Click to view Full Profile</b></summary>
+<summary><b>view Profile</b></summary>
 
 <br/>
 
