@@ -28,7 +28,7 @@
 ---
 
 <details>
-<summary><b>view Profile</b></summary>
+<summary><b>View Profile</b></summary>
 
 <br/>
 
