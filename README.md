@@ -127,14 +127,6 @@
 
 ---
 
-<div align="center">
-
-![snake gif](https://github.com/riteshthakur21/riteshthakur21/blob/output/github-snake-dark.svg)
-
-</div>
-
----
-
 ## 🌍 Let's Connect
 
 <p align="center">
@@ -160,4 +152,12 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0099CC,100:7209B7&height=80&section=footer"/>
+</div>
+
+---
+
+<div align="center">
+
+![snake gif](https://github.com/riteshthakur21/riteshthakur21/blob/output/github-snake-dark.svg)
+
 </div>
