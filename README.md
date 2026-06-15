@@ -1,5 +1,13 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0099CC,100:7209B7&height=120&section=header&text=Ritesh%20Thakur&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
+</div>
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="700" height="400" alt="Coding Animation" />
+</div>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Ritesh+%F0%9F%91%8B;Full-Stack+Web+Developer+%7C+Agentic+AI+Explorer;2nd+Year+BCA+%7C+Creative+Problem+Solver+%E2%9A%95%EF%B8%8F;Building+Real+Solutions+That+Delight+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=900&lines=Hey+there!+I'm+Ritesh+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Agentic+AI+Explorer+%F0%9F%A4%96;BCA+4th+Sem+%7C+St.+Xavier's+Patna+%F0%9F%8E%93;Building+Real+Solutions+That+Delight+%F0%9F%9A%80;Creative+Coder+%F0%9F%8E%B5" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -17,21 +25,25 @@
 
 ---
 
+<details>
+<summary><b>👤 Click to view Full Profile</b></summary>
+
+<br/>
+
 ## 🧠 About Me
 
-- 🎓 **Final Year BCA Student** — curious about **Web Technologies**, **Agentic AI** & **Creative Problem Solving**
-- 🔭 Currently working on my personal project **[Xavier Alumni Connect](https://xavier-alumni-connect.vercel.app/)**
-- 🌱 Currently learning **Agentic AI workflows**, **Advanced Next.js** & **System Design**
-- 👥 Looking to collaborate on **Open-source Web & AI-powered tools**
-- 💬 Ask me about **React**, **Node.js**, **Vector DBs**, **Clean UI Architecture**
-- ⚡ Fun fact: I once built a **Vector DB in C++** just to understand how they work 🤓
+- 🎓 **BCA 4th Semester** — **St. Xavier's College, Patna** | Passionate about **Web Tech**, **Agentic AI** & **Creative Coding**
+- 🔭 Currently building **[Xavier Alumni Connect](https://xavier-alumni-connect.vercel.app/)** — a full-stack alumni networking platform
+- 🛠️ Interning at **Graphura** — School Management ERP (Backend Dev)
+- 🌱 Currently exploring **Agentic AI workflows**, **Advanced Next.js** & **System Design**
+- 🎵 Music Producer — writing Hindi-English pop & rap songs in my free time
+- ⚡ Fun fact: I once built a **Vector DB in C++** from scratch just to understand how they work 🤓
 - 💡 I believe **Performance** and **Visual Delight** should never be a trade-off
 
-
 ---
- 
+
 ## 🧰 Tech Stack
- 
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tailwind,mongodb,postgres,figma&theme=dark" /><br/>
   <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,java,git,github,vscode,vercel,postman&theme=dark" />
@@ -55,6 +67,7 @@
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+
 ---
 
 ### 🤖 rites-AI — [GitHub Repo](https://github.com/riteshthakur21/rites-AI)
@@ -63,6 +76,39 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-LLM-black?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-Pipeline-orange?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
+
+---
+
+### 🏫 Graphura — School Management ERP *(Internship)*
+> Backend development for a full-scale School ERP — Principal Communication Module, Cloudinary file uploads, JWT auth, Notices, Events & Meetings system.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
+---
+
+### 🌐 Liquid Geometry — 3D Portfolio
+> Next.js 14 + Three.js portfolio with multiple color themes (Cyberpunk, Naruto, Matrix, Spider-Man) via CSS data-theme switching. PBR materials, real-time lighting, GSAP animations.
+
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+---
+
+### 🤖 Bhai AI — Personal AI Assistant
+> WhatsApp + Voice + Desktop automation AI assistant. v1 in Node.js (Groq LLaMA 3.3, whatsapp-web.js, DuckDuckGo search), v2 in Python (voice control, Groq Vision, desktop automation).
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3-black?style=flat)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_Web.js-25D366?style=flat&logo=whatsapp&logoColor=white)
 
 ---
 
@@ -74,15 +120,25 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=riteshthakur21&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riteshthakur21&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=7209b7&area=true&area_color=00d9ff" height="200"/>
 </p>
+
+</details>
+
+---
+
+<div align="center">
+
+![snake gif](https://github.com/riteshthakur21/riteshthakur21/blob/output/github-snake-dark.svg)
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riteshthakur21&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=riteshthakur21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </p>
 
 ---
@@ -110,6 +166,6 @@
   A craftsman writes code <b>humans</b> can understand — and machines love to run."</i>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=80&section=footer" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0099CC,100:7209B7&height=80&section=footer"/>
+</div>
