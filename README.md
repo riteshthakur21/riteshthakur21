@@ -14,6 +14,9 @@
   <a href="https://www.linkedin.com/in/riteshthakur21022007/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/ritesh_sarraf__21">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="mailto:riteshthakur21feb@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -22,7 +25,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=riteshthakur21&label=Profile+Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
 </p>
-
 ---
 
 <details>
