@@ -129,23 +129,9 @@
 
 ---
 
-## 🌍 Let's Connect
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/riteshthakur21022007/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  &nbsp;
-  <a href="mailto:riteshthakur21feb@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://xavier-alumni-connect.vercel.app/" target="_blank">
-    <img alt="Alumni Connect" src="https://img.shields.io/badge/Project-Alumni%20Connect-6C47FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=riteshthakur21&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 <p align="center">
   <i>"Any fool can write code a machine understands.<br/>
