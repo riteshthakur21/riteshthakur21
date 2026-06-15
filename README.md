@@ -25,7 +25,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=riteshthakur21&label=Profile+Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
 </p>
----
 
 <details>
 <summary><b>View Profile</b></summary>
