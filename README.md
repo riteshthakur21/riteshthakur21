@@ -34,7 +34,7 @@
 ## 🧠 About Me
 
 - 🎓 **BCA 4th Semester** — **St. Xavier's College, Patna** | Passionate about **Web Tech**, **Agentic AI** & **Creative Coding**
-- 🔭 Currently building **[Xavier Alumni Connect](https://xavier-alumni-connect.vercel.app/)** — a full-stack alumni networking platform
+- 🔭 Currently building **[Xavier Alumni Connect](https://riteshthakur21.github.io/xavier-showcase/)** — a full-stack alumni networking platform
 - 🛠️ Interning at **Graphura** — School Management ERP (Backend Dev)
 - 🌱 Currently exploring **Agentic AI workflows**, **Advanced Next.js** & **System Design**
 - 🎵 Music Producer — writing Hindi-English pop & rap songs in my free time
