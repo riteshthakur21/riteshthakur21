@@ -37,7 +37,6 @@
 - 🔭 Currently building **[Xavier Alumni Connect](https://riteshthakur21.github.io/xavier-showcase/)** — a full-stack alumni networking platform
 - 🛠️ Interning at **Graphura** — School Management ERP (Backend Dev)
 - 🌱 Currently exploring **Agentic AI workflows**, **Advanced Next.js** & **System Design**
-- 🎵 Music Producer — writing Hindi-English pop & rap songs in my free time
 - ⚡ Fun fact: I once built a **Vector DB in C++** from scratch just to understand how they work 🤓
 - 💡 I believe **Performance** and **Visual Delight** should never be a trade-off
 
