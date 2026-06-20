@@ -31,7 +31,7 @@
 
 <br/>
 
-## 🧠 About M
+## 🧠 About Me
 
 - 🎓 **BCA 4th Semester** — **St. Xavier's College, Patna** | Passionate about **Web Tech**, **Agentic AI** & **Creative Coding**
 - 🔭 Currently building **[Xavier Alumni Connect](https://riteshthakur21.github.io/xavier-showcase/)** — a full-stack alumni networking platform
