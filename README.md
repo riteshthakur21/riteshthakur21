@@ -42,7 +42,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Sta
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,tailwind,mongodb,postgres,figma&theme=dark" /><br/>
