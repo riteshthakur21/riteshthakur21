@@ -20,8 +20,8 @@
   <a href="mailto:riteshthakur21feb@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://riteshthakur21.github.io/xavier-showcase/">
-    <img src="https://img.shields.io/badge/Alumni%20Connect-6C47FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://riteshraj.vercel.app/">
+    <img src="https://img.shields.io/badge/Ritesh%20portfio-6C47FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=riteshthakur21&label=Profile+Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
 </p>
