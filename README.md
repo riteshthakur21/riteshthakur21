@@ -133,7 +133,7 @@
 
 <p align="center">
   <i>"Any fool can write code a machine understands.<br/>
-  A craftsman writes code <b>humans</b> can understand — and machines love to Run"</i>
+  A craftsman writes code <b>humans</b> can understand — and machines love to Run."</i>
 </p>
 
 <div align="center">
